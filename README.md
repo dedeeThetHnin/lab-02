@@ -2,13 +2,15 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `<Thet Hnin Hsu>`
+- **CCID:** `<1876301>`
 
 ## References and Resources
 
 List any resources used here, or simply put `N/A` if not applicable.
-
+- Lab-02 description given in the GitHub
+- The explaination from TA in Lab section
+  
 ## Verbal Collaboration
 
 | Student Name | CCID      |
