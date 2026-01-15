@@ -9,6 +9,8 @@
 
 List any resources used here, or simply put `N/A` if not applicable.
 - Lab-02 description given in the GitHub
+- Lab-02 participation instructions
+- Lab-02 Android Basics
 - The explaination from TA in Lab section
   
 ## Verbal Collaboration
